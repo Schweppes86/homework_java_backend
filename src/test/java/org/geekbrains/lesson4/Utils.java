@@ -1,6 +1,4 @@
-package org.geekbrains.lesson3;
-
-import org.geekbrains.lesson4.App;
+package org.geekbrains.lesson4;
 
 import java.io.IOException;
 import java.util.Properties;
